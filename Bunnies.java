@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// author: Carolina Marugan 
+// This is a variation of Palindrome 2 from leetcode
 public class Bunnies {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
