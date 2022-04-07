@@ -1,4 +1,4 @@
 # CP
 Competitive Programming
 
-This is a problem I made myself based on the Palindrome problem
+This is the statement of a problem I made myself based on the Palindrome problem. The solution is in Bunnies.java
